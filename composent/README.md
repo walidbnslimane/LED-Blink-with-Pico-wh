@@ -4,11 +4,14 @@ This guide demonstrates how to set up a basic circuit using an LED, a resistor, 
 
 ## Components Table
 
-| Component           | Description                                         | Pin Connection            |
-|---------------------|-----------------------------------------------------|---------------------------|
-| **Raspberry Pi Pico WH** <br> <img src="https://path-to-your-image/rp-pico-wh.png" alt="Raspberry Pi Pico WH" width="100">  | Microcontroller with built-in WiFi                  | GPIO 15 for LED, GND pin   |
-| **LED** <br> <img src="https://path-to-your-image/led.png" alt="LED" width="100">  | Long leg (anode) connects to Pico, short leg to resistor | Anode to GPIO 15           |
-
+| Component           | Description                                         | Pin Connection            | Image                                       |
+|---------------------|-----------------------------------------------------|---------------------------|---------------------------------------------|
+| Raspberry Pi Pico WH | Microcontroller with built-in WiFi                  | GPIO 15 for LED, GND pin   | <img src="https://path-to-your-image/rp-pico-wh.png" alt="Raspberry Pi Pico WH" width="100">  |
+| LED                 | Long leg (anode) connects to Pico, short leg to resistor | Anode to GPIO 15           | <img src="https://path-to-your-image/led.png" alt="LED" width="100">  |
+| Resistor            | 220Ω or 330Ω resistor to limit current               | Between LED cathode and GND| <img src="https://path-to-your-image/resistor.png" alt="Resistor" width="100">  |
+| Breadboard          | For easier wiring and connecting components          | -                         | <img src="https://path-to-your-image/breadboard.png" alt="Breadboard" width="100">  |
+| Jumper Wires        | Male-to-male wires to connect Pico, LED, resistor    | GPIO pins, GND             | <img src="https://path-to-your-image/jumper-wires.png" alt="Jumper Wires" width="100">  |
+| USB Cable           | For powering the Raspberry Pi Pico WH                | Micro-USB port             | <img src="https://path-to-your-image/usb-cable.png" alt="USB Cable" width="100">  |
 ## Circuit Diagram
 
 <div align="center">
