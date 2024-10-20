@@ -1,1 +1,1 @@
- [View the project attachments on GitHub](https://github.com/user-attachments/assets/c972f7a6-a82f-41ad-9d7b-299c8cf438d9)
+<img src="https://github.com/user-attachments/assets/63f12fa1-1400-4b81-b04c-596395311abe" alt="README">
